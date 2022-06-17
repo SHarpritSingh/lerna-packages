@@ -3,5 +3,5 @@
 module.exports = package2;
 
 function package2() {
-  return 'package1';
+  return 'package2 invoked';
 }
