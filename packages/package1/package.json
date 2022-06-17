@@ -1,5 +1,5 @@
 {
-  "name": "@hps/package1",
+  "name": "@sharpritsingh/package1",
   "version": "1.0.2-alpha.0",
   "description": "> TODO: description",
   "author": "Harprit <harprit.singh@hbo.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/SHarpritSingh/lerna-packages/issues"
-  }
+  },
+  "gitHead": "6e8eb74010c8a881d7092bfeff961c4b5fa79582"
 }
